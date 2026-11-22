@@ -1,8 +1,4 @@
-# Online Computer Shop — Final Merged Project from Razon ZIP
-
-This is the final runnable merged project built from the task files inside `razon.zip`, arranged in the same MVC format as the second reference project.
-
-## How to Run in XAMPP
+ How to Run in XAMPP
 
 1. Extract this folder into:
 
@@ -26,28 +22,17 @@ database/computer_shop_final_with_sample_data.sql
 5. Open the project:
 
 ```text
-http://localhost/razon_online_computer_shop_final/
+http://localhost/online_computer_shop_final/
 ```
 
 ## Demo Login
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | `admin@shop.com` | `12345678` |
-| Customer | `customer@shop.com` | `12345678` |
+| Admin | `numan@shop.com` | `12345678` |
+| Customer | `numan1@shop.com` | `12345678` |
 
-## Project Format
 
-The root folder is the **final merged runnable project**.
-
-The `task_contributions/` folder contains the original task-wise files copied from `razon.zip`:
-
-| Task | Source Folder | Main Module |
-|---|---|---|
-| Task 1 | `task1.zip` | Authentication, registration, login, profile, home/category base |
-| Task 2 | `bristy(TASK2).zip` | Admin category, brand, product CRUD |
-| Task 3 | `numan(TASK3).zip` | Product browsing, AJAX search, cart |
-| Task 4 | `task4.zip` | Checkout, order, review, admin review/customer management |
 
 ## Main Features
 
